@@ -4,6 +4,6 @@ Gem::Specification.new do |s|
   s.summary = "Lorem Ipsum in ruby"
   s.description = "A simple placeholder text generator"
   # fill these fields in
-  # s.author = []
-  # s.files = []
+  s.authors  = ["Kennedy DeVera"]
+  s.files = ["lib/lorem_ipsum/ruby_lipsum.rb"]
 end

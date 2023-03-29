@@ -3,7 +3,6 @@ Gem::Specification.new do |s|
   s.version = "0.0.0"
   s.summary = "Lorem Ipsum in ruby"
   s.description = "A simple placeholder text generator"
-  # fill these fields in
-  # s.author = []
-  # s.files = []
+  s.author = ["Ashley Pua Phee"]
+  s.files = ["lib/ruby_lipsum.rb"]
 end

@@ -5,5 +5,5 @@ Gem::Specification.new do |s|
   s.description = "A simple placeholder text generator"
   # fill these fields in
   s.author = ["Joseph"]
-  s.files = ["lib/ruby_lipsum.rb"]
+  s.files = ["lib/ruby_lipsum.rb","lib/challenge1.rb"]
 end
